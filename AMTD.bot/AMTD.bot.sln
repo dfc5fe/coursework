@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMTD.bot", "AMTD.bot\AMTD.bot.csproj", "{B39E45EA-78B9-48E9-ACC6-F048450BE82A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryApi", "DictionaryApi\DictionaryApi.csproj", "{3EE63F86-5880-4791-AF78-B04BC3C0F6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39E45EA-78B9-48E9-ACC6-F048450BE82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39E45EA-78B9-48E9-ACC6-F048450BE82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39E45EA-78B9-48E9-ACC6-F048450BE82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39E45EA-78B9-48E9-ACC6-F048450BE82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE63F86-5880-4791-AF78-B04BC3C0F6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE63F86-5880-4791-AF78-B04BC3C0F6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE63F86-5880-4791-AF78-B04BC3C0F6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE63F86-5880-4791-AF78-B04BC3C0F6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
